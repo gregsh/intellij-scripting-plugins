@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="intellij-scripting-clojure:zip">
+    <output-path>$PROJECT_DIR$/binaries/</output-path>
+    <root id="archive" name="intellij-scripting-clojure.zip">
+      <element id="directory" name="intellij-scripting-clojure">
+        <element id="directory" name="lib">
+          <element id="artifact" artifact-name="intellij-scripting-clojure:jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

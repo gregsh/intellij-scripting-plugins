@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.clojars.ato:clojure-jsr223:1.5.1" type="repository">
+    <properties include-transitive-deps="false" maven-id="org.clojars.ato:clojure-jsr223:1.5.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojars/ato/clojure-jsr223/1.5.1/clojure-jsr223-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

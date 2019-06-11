@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="intellij-scripting-ruby:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/intellij_scripting_ruby_jar</output-path>
+    <root id="root">
+      <element id="archive" name="intellij-scripting-ruby.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$APPLICATION_HOME_DIR$/bin/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="intellij-scripting-ruby" />
+      </element>
+      <element id="library" level="project" name="org.jruby:jruby-complete:9.2.7.0" />
+    </root>
+  </artifact>
+</component>

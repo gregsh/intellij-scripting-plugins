@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="intellij-scripting-python:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/intellij_scripting_python_jar</output-path>
+    <root id="root">
+      <element id="archive" name="intellij-scripting-python.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$APPLICATION_HOME_DIR$/bin/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="intellij-scripting-python" />
+      </element>
+      <element id="library" level="project" name="org.python:jython-standalone:2.7.0" />
+    </root>
+  </artifact>
+</component>

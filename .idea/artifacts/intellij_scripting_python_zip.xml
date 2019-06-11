@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="intellij-scripting-python:zip">
+    <output-path>$PROJECT_DIR$/binaries/</output-path>
+    <root id="archive" name="intellij-scripting-python.zip">
+      <element id="directory" name="intellij-scripting-python">
+        <element id="directory" name="lib">
+          <element id="artifact" artifact-name="intellij-scripting-python:jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

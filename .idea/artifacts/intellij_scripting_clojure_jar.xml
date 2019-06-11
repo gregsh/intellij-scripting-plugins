@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="intellij-scripting-clojure:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/intellij_scripting_clojure_jar</output-path>
+    <root id="root">
+      <element id="archive" name="intellij-scripting-clojure.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$APPLICATION_HOME_DIR$/bin/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="intellij-scripting-clojure" />
+      </element>
+      <element id="library" level="project" name="org.clojure:clojure:1.10.1" />
+      <element id="library" level="project" name="org.clojars.ato:clojure-jsr223:1.5.1" />
+    </root>
+  </artifact>
+</component>

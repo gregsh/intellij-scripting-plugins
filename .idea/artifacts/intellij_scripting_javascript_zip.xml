@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="intellij-scripting-javascript:zip">
+    <output-path>$PROJECT_DIR$/binaries/</output-path>
+    <root id="archive" name="intellij-scripting-javascript.zip">
+      <element id="directory" name="intellij-scripting-javascript">
+        <element id="directory" name="lib">
+          <element id="artifact" artifact-name="intellij-scripting-javascript:jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

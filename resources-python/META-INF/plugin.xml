@@ -1,0 +1,25 @@
+<idea-plugin use-idea-classloader="true">
+  <id>org.jetbrains.intellij.scripting-python</id>
+  <name>IntelliJ Scripting: Python</name>
+  <version>1.0</version>
+  <vendor email="gregory.shrago@jetbrains.com">Greg Shrago</vendor>
+  <idea-version since-build="173.0"/>
+
+  <description><![CDATA[Python engine for IntelliJ-based tools scripting.
+    <br>
+    <ul>
+      <li>org.python:jython-standalone:2.7.0</li>
+    </ul>
+    <br>
+    <a href="https://github.com/jythontools/jython">Jython homepage</a>
+    <br>
+    <a href="https://github.com/gregsh/intellij-scripting-plugins#python">IntelliJ Scripting homepage</a>
+    ]]>
+  </description>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <change-notes><![CDATA[
+    ]]>
+  </change-notes>
+</idea-plugin>
