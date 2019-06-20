@@ -42,7 +42,7 @@ Ruby
 * [Plugin page](https://plugins.jetbrains.com/plugin/12549-intellij-scripting-ruby)
 * [Script engine](https://github.com/jruby/jruby): `org.jruby:jruby-complete:9.2.7.0`
 
-Add `-Dorg.jruby.embed.localcontext.scope=true` VM option the IDE via `Help | Edit Custom VM Options`.
+Add `-Dorg.jruby.embed.localcontext.scope=threadsafe` VM option the IDE via `Help | Edit Custom VM Options`.
 
 
 

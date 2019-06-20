@@ -11,7 +11,7 @@
       <li>org.jruby:jruby-complete:9.2.7.0</li>
     </ul>
     <br>
-    Add <code>-Dorg.jruby.embed.localcontext.scope=true</code> VM option the IDE via <code>Help | Edit Custom VM Options</code>.
+    Add <code>-Dorg.jruby.embed.localcontext.scope=threadsafe</code> VM option the IDE via <code>Help | Edit Custom VM Options</code>.
     <br>
     <br>
     <a href="https://github.com/jruby/jruby">JRuby homepage</a>
