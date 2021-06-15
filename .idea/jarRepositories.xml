@@ -13,8 +13,13 @@
     </remote-repository>
     <remote-repository>
       <option name="id" value="5919d15f-0461-44e0-badb-9e014e004773" />
-      <option name="name" value="5919d15f-0461-44e0-badb-9e014e004773" />
+      <option name="name" value="Clojars" />
       <option name="url" value="https://repo.clojars.org" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="6ccc6e8e-11a5-45cd-89e0-a09df8733fc7" />
+      <option name="name" value="Sonatype Snapshots" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/snapshots" />
     </remote-repository>
   </component>
 </project>

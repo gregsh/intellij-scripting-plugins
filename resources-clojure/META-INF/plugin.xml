@@ -1,16 +1,11 @@
 <idea-plugin use-idea-classloader="true">
   <id>org.jetbrains.intellij.scripting-clojure</id>
   <name>IntelliJ Scripting: Clojure</name>
-  <version>1.0.1</version>
+  <version>1.1</version>
   <vendor email="gregory.shrago@jetbrains.com">Greg Shrago</vendor>
   <idea-version since-build="173.0"/>
 
   <description><![CDATA[Clojure engine for IntelliJ-based tools scripting.
-    <br>
-    <ul>
-      <li>org.clojure:clojure:1.10.1</li>
-      <li>org.clojars.ato:clojure-jsr223:1.5.1</li>
-    </ul>
     <br>
     <a href="https://github.com/gregsh/intellij-scripting-plugins#clojure">IntelliJ Scripting homepage</a>
     ]]>
@@ -21,7 +16,8 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>org.clojure:clojure:1.10.1</li>
+      <li>org.clojure:clojure:1.11.0-alpha1</li>
+      <li>org.clojars.ato:clojure-jsr223:1.5.1</li>
     </ul>
     ]]>
   </change-notes>

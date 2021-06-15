@@ -1,16 +1,11 @@
 <idea-plugin use-idea-classloader="true">
   <id>org.jetbrains.intellij.scripting-javascript</id>
   <name>IntelliJ Scripting: JavaScript</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="gregory.shrago@jetbrains.com">Greg Shrago</vendor>
   <idea-version since-build="192.0"/>
 
   <description><![CDATA[JavaScript engine for IntelliJ-based tools scripting.
-    <br>
-    <ul>
-      <li>org.graalvm.js:js:19.0.0</li>
-      <li>org.graalvm.js:js-scriptengine:19.0.0</li>
-    </ul>
     <br>
     Add <code>-Dpolyglot.js.nashorn-compat=true</code> VM option the IDE via <code>Help | Edit Custom VM Options</code>.
     <br>
@@ -24,6 +19,10 @@
   <depends>com.intellij.modules.lang</depends>
 
   <change-notes><![CDATA[
+    <ul>
+      <li>org.graalvm.js:js:21.1.0</li>
+      <li>org.graalvm.js:js-scriptengine:21.1.0</li>
+    </ul>
     ]]>
   </change-notes>
 </idea-plugin>

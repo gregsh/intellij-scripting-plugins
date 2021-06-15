@@ -1,15 +1,11 @@
 <idea-plugin use-idea-classloader="true">
   <id>org.jetbrains.intellij.scripting-ruby</id>
   <name>IntelliJ Scripting: Ruby</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="gregory.shrago@jetbrains.com">Greg Shrago</vendor>
   <idea-version since-build="173.0"/>
 
   <description><![CDATA[Ruby engine for IntelliJ-based tools scripting.
-    <br>
-    <ul>
-      <li>org.jruby:jruby-complete:9.2.7.0</li>
-    </ul>
     <br>
     Add <code>-Dorg.jruby.embed.localcontext.scope=threadsafe</code> VM option the IDE via <code>Help | Edit Custom VM Options</code>.
     <br>
@@ -23,6 +19,9 @@
   <depends>com.intellij.modules.lang</depends>
 
   <change-notes><![CDATA[
+    <ul>
+      <li>org.jruby:jruby-complete:9.2.19.0</li>
+    </ul>
     ]]>
   </change-notes>
 </idea-plugin>

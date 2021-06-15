@@ -9,6 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="org.clojure:clojure:1.10.1" level="project" />
-    <orderEntry type="library" name="org.clojars.ato:clojure-jsr223:1.5.1" level="project" />
+    <orderEntry type="library" name="org.clojars.ato:clojure-jsr223:Release" level="project" />
   </component>
 </module>

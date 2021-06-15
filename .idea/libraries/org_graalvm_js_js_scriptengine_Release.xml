@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.graalvm.js:js-scriptengine:Release" type="repository">
+    <properties include-transitive-deps="false" maven-id="org.graalvm.js:js-scriptengine:RELEASE" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/js/js-scriptengine/21.1.0/js-scriptengine-21.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

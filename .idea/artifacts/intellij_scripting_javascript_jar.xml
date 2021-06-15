@@ -8,8 +8,8 @@
         </element>
         <element id="module-output" name="intellij-scripting-javascript" />
       </element>
-      <element id="library" level="project" name="org.graalvm.js:js-scriptengine:19.0.0" />
-      <element id="library" level="project" name="org.graalvm.js:js:19.0.0" />
+      <element id="library" level="project" name="org.graalvm.js:js-scriptengine:Release" />
+      <element id="library" level="project" name="org.graalvm.js:js:Release" />
     </root>
   </artifact>
 </component>

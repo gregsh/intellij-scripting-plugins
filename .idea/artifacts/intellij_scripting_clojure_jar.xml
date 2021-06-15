@@ -8,8 +8,8 @@
         </element>
         <element id="module-output" name="intellij-scripting-clojure" />
       </element>
-      <element id="library" level="project" name="org.clojure:clojure:1.10.1" />
-      <element id="library" level="project" name="org.clojars.ato:clojure-jsr223:1.5.1" />
+      <element id="library" level="project" name="org.clojure:clojure:Release" />
+      <element id="library" level="project" name="org.clojars.ato:clojure-jsr223:Release" />
     </root>
   </artifact>
 </component>
