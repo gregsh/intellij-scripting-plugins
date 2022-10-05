@@ -9,6 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="org.graalvm.js:js:Release" level="project" />
-    <orderEntry type="library" name="org.graalvm.js:js-scriptengine:19.0.0" level="project" />
+    <orderEntry type="library" name="org.graalvm.js:js-scriptengine:Release" level="project" />
+    <orderEntry type="library" name="org.graalvm.js:js-launcher:Release" level="project" />
   </component>
 </module>

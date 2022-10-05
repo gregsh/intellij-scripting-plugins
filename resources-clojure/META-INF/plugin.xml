@@ -1,11 +1,14 @@
 <idea-plugin use-idea-classloader="true">
   <id>org.jetbrains.intellij.scripting-clojure</id>
   <name>IntelliJ Scripting: Clojure</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor email="gregory.shrago@jetbrains.com">Greg Shrago</vendor>
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="222.0"/>
 
   <description><![CDATA[Clojure engine for IntelliJ-based tools scripting.
+    <br>
+    Add <code>-Didea.mimic.jar.url.connection=true</code> VM option the IDE via <code>Help | Edit Custom VM Options</code>.
+    <br>
     <br>
     <a href="https://github.com/gregsh/intellij-scripting-plugins#clojure">IntelliJ Scripting homepage</a>
     ]]>
@@ -16,7 +19,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>org.clojure:clojure:1.11.0-alpha1</li>
+      <li>org.clojure:clojure:1.12.0-alpha1</li>
       <li>org.clojars.ato:clojure-jsr223:1.5.1</li>
     </ul>
     ]]>

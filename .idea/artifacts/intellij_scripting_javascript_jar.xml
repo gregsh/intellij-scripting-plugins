@@ -10,6 +10,7 @@
       </element>
       <element id="library" level="project" name="org.graalvm.js:js-scriptengine:Release" />
       <element id="library" level="project" name="org.graalvm.js:js:Release" />
+      <element id="library" level="project" name="org.graalvm.js:js-launcher:Release" />
     </root>
   </artifact>
 </component>

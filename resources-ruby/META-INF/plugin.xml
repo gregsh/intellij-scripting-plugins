@@ -1,9 +1,9 @@
 <idea-plugin use-idea-classloader="true">
   <id>org.jetbrains.intellij.scripting-ruby</id>
   <name>IntelliJ Scripting: Ruby</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor email="gregory.shrago@jetbrains.com">Greg Shrago</vendor>
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="222.0"/>
 
   <description><![CDATA[Ruby engine for IntelliJ-based tools scripting.
     <br>
@@ -20,7 +20,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>org.jruby:jruby-complete:9.2.19.0</li>
+      <li>org.jruby:jruby:9.3.8.0</li>
     </ul>
     ]]>
   </change-notes>

@@ -2,11 +2,11 @@
   <library name="org.graalvm.js:js:Release" type="repository">
     <properties maven-id="org.graalvm.js:js:RELEASE" />
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/js/js/21.1.0/js-21.1.0.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/regex/regex/21.1.0/regex-21.1.0.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/truffle/truffle-api/21.1.0/truffle-api-21.1.0.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/21.1.0/graal-sdk-21.1.0.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/icu/icu4j/68.2/icu4j-68.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/js/js/22.2.0/js-22.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/regex/regex/22.2.0/regex-22.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/truffle/truffle-api/22.2.0/truffle-api-22.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/22.2.0/graal-sdk-22.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/icu/icu4j/71.1/icu4j-71.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -8,7 +8,7 @@
         </element>
         <element id="module-output" name="intellij-scripting-ruby" />
       </element>
-      <element id="library" level="project" name="org.jruby:jruby-complete:Release" />
+      <element id="library" level="project" name="org.jruby:jruby:Release" />
     </root>
   </artifact>
 </component>
