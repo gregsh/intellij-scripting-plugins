@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="org.graalvm.js:js-launcher:Release" type="repository">
-    <properties maven-id="org.graalvm.js:js-launcher:RELEASE" />
+    <properties maven-id="org.graalvm.js:js-launcher:23.0.4" />
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/js/js-launcher/22.2.0/js-launcher-22.2.0.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/launcher-common/22.2.0/launcher-common-22.2.0.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/22.2.0/graal-sdk-22.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/js/js-launcher/23.0.4/js-launcher-23.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/launcher-common/23.0.4/launcher-common-23.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/23.0.4/graal-sdk-23.0.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -2,7 +2,7 @@
   <library name="org.python:jython-standalone:Release" type="repository">
     <properties maven-id="org.python:jython-standalone:RELEASE" />
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/python/jython-standalone/2.7.3/jython-standalone-2.7.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/python/jython-standalone/2.7.4b2/jython-standalone-2.7.4b2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
