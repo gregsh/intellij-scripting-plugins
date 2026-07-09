@@ -16,7 +16,7 @@ Clojure
 =======
 
 * [Plugin page](https://plugins.jetbrains.com/plugin/12469-intellij-scripting-clojure)
-* Script engine: `org.clojars.ato:clojure-jsr223:1.5.1`, `org.clojure:clojure:1.12.0-alpha12`
+* Script engine: `org.clojars.ato:clojure-jsr223:1.5.1`, `org.clojure:clojure:1.13.0-alpha3`
 
 Add `-Didea.mimic.jar.url.connection=true` in `Help | Edit Custom VM Options`.
 
@@ -25,7 +25,7 @@ JavaScript
 ==========
 
 * [Plugin page](https://plugins.jetbrains.com/plugin/12548-intellij-scripting-javascript)
-* [Script engine](https://github.com/graalvm/graaljs): `org.graalvm.js:js-scriptengine:23.0.4`, `org.graalvm.js:js:23.0.4`
+* [Script engine](https://github.com/graalvm/graaljs): `org.graalvm.js:js-scriptengine:24.2.2`, `org.graalvm.js:js-language:24.2.2`, `org.graalvm.js:js-launcher:24.2.2`, `org.graalvm.truffle:truffle-runtime:24.2.2`
 
 Add `-Dpolyglot.js.nashorn-compat=true` in `Help | Edit Custom VM Options`.
 
@@ -34,7 +34,7 @@ Python
 ======
 
 * [Plugin page](https://plugins.jetbrains.com/plugin/12471-intellij-scripting-python)
-* [Script engine](https://github.com/jythontools/jython): `org.python:jython-standalone:2.7.4b2`
+* [Script engine](https://github.com/jythontools/jython): `org.python:jython-standalone:2.7.4`
 
 Add `-Didea.mimic.jar.url.connection=true` in `Help | Edit Custom VM Options`.
  
@@ -43,9 +43,8 @@ Ruby
 ====
 
 * [Plugin page](https://plugins.jetbrains.com/plugin/12549-intellij-scripting-ruby)
-* [Script engine](https://github.com/jruby/jruby): `org.jruby:jruby:9.4.7.0`
+* [Script engine](https://github.com/jruby/jruby): `org.jruby:jruby:10.1.0.0`
 
 Add `-Dorg.jruby.embed.localcontext.scope=threadsafe` in `Help | Edit Custom VM Options`.
-
 
 

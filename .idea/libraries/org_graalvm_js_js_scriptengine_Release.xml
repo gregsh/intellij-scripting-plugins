@@ -1,8 +1,12 @@
 <component name="libraryTable">
   <library name="org.graalvm.js:js-scriptengine:Release" type="repository">
-    <properties include-transitive-deps="false" maven-id="org.graalvm.js:js-scriptengine:23.0.4" />
+    <properties maven-id="org.graalvm.js:js-scriptengine:24.2.2" />
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/js/js-scriptengine/23.0.4/js-scriptengine-23.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/js/js-scriptengine/24.2.2/js-scriptengine-24.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/polyglot/polyglot/24.2.2/polyglot-24.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/collections/24.2.2/collections-24.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/nativeimage/24.2.2/nativeimage-24.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/word/24.2.2/word-24.2.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

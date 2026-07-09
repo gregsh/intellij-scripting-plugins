@@ -8,8 +8,9 @@
         </element>
         <element id="module-output" name="intellij-scripting-javascript" />
       </element>
+      <element id="library" level="project" name="org.graalvm.truffle:truffle-runtime:Release" />
       <element id="library" level="project" name="org.graalvm.js:js-scriptengine:Release" />
-      <element id="library" level="project" name="org.graalvm.js:js:Release" />
+      <element id="library" level="project" name="org.graalvm.js:js-language:Release" />
       <element id="library" level="project" name="org.graalvm.js:js-launcher:Release" />
     </root>
   </artifact>
